@@ -1,0 +1,1 @@
+[".l", [".l", ".ll", ".l km", ".luisito comunica", ".lml", ".ln", ".lf", ".lost on you", ".la", ".lmm"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

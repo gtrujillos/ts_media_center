@@ -1,0 +1,47 @@
+<settings version="2">
+    <setting id="backup_addon_data">true</setting>
+    <setting id="backup_addons" default="true">false</setting>
+    <setting id="backup_advancedsettings">true</setting>
+    <setting id="backup_Database">true</setting>
+    <setting id="backup_favourites">true</setting>
+    <setting id="backup_fstab">true</setting>
+    <setting id="backup_guisettings">true</setting>
+    <setting id="backup_keyboard">true</setting>
+    <setting id="backup_keymaps">true</setting>
+    <setting id="backup_LCD">true</setting>
+    <setting id="backup_library">true</setting>
+    <setting id="backup_location" default="true"></setting>
+    <setting id="backup_location_typed" default="true"></setting>
+    <setting id="backup_now" default="true"></setting>
+    <setting id="backup_on_update" default="true">false</setting>
+    <setting id="backup_peripheral_data">true</setting>
+    <setting id="backup_playlists">true</setting>
+    <setting id="backup_profiles">true</setting>
+    <setting id="backup_profilesF">true</setting>
+    <setting id="backup_remote">true</setting>
+    <setting id="backup_RssFeeds">true</setting>
+    <setting id="backup_sources">true</setting>
+    <setting id="backup_Thumbnails" default="true">false</setting>
+    <setting id="backup_upnpserver">true</setting>
+    <setting id="check_day" default="true">0</setting>
+    <setting id="check_freq">0</setting>
+    <setting id="check_hour">12</setting>
+    <setting id="check_minute" default="true">0</setting>
+    <setting id="check_time" default="true">0</setting>
+    <setting id="check_weekday">1</setting>
+    <setting id="home_prompts_only" default="true">false</setting>
+    <setting id="hotfix_now" default="true"></setting>
+    <setting id="install_now" default="true"></setting>
+    <setting id="install_now_visible" default="true">false</setting>
+    <setting id="kodi_reset" default="true">false</setting>
+    <setting id="location_selection" default="true">0</setting>
+    <setting id="on_upd_detected" default="true">0</setting>
+    <setting id="pos_x">4</setting>
+    <setting id="pos_y">95</setting>
+    <setting id="restore_now" default="true"></setting>
+    <setting id="suppress_icon" default="true">false</setting>
+    <setting id="suppress_progress" default="true">false</setting>
+    <setting id="tarball_count">1</setting>
+    <setting id="update_now" default="true"></setting>
+    <setting id="update_on_idle">false</setting>
+</settings>

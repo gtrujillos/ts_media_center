@@ -1,0 +1,1 @@
+["cla", ["clash royale", "claptone", "claudipia", "clandestino", "clasicos", "classical music", "clairo", "claudia lopez", "clash of clans", "claro de luna"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

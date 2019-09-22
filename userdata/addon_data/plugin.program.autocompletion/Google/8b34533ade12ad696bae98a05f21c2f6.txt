@@ -1,0 +1,1 @@
+["osmc", ["osmc", "osmc on raspberry pi 4", "osmc on raspberry pi", "osmc vs libreelec raspberry pi 3", "osmc install netflix", "osmc google assistant", "osmc raspberry pi 3", "osmc review", "osmc plex", "osmc iptv"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

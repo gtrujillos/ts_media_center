@@ -1,0 +1,1 @@
+[".", [".net", ".net core", ".g", ".csv", ".io", ".40", ".l", "._. xd", ".musica", ".com"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

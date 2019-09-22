@@ -1,0 +1,1 @@
+["cl", ["closer", "clash royale", "claptone", "click", "clean bandit", "claudipia", "clandestino", "clasicos", "classical music", "clairo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

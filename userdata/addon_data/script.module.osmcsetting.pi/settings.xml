@@ -1,0 +1,41 @@
+<settings version="2">
+    <setting id="audio" default="true">false</setting>
+    <setting id="codec_check">MPG2=disabled, WVC1=disabled</setting>
+    <setting id="config_hdmi_boost" default="true">0</setting>
+    <setting id="decode_MPG2" default="true"></setting>
+    <setting id="decode_WVC1" default="true"></setting>
+    <setting id="display_rotate" default="true">0</setting>
+    <setting id="gpio_in_pin">18</setting>
+    <setting id="gpio_in_pull" default="true">0</setting>
+    <setting id="gpio_out_pin">17</setting>
+    <setting id="gpu_mem_1024">256</setting>
+    <setting id="gpu_mem_256">112</setting>
+    <setting id="gpu_mem_512">144</setting>
+    <setting id="hdmi_edid_file" default="true">false</setting>
+    <setting id="hdmi_force_hotplug" default="true">false</setting>
+    <setting id="hdmi_group" default="true">0</setting>
+    <setting id="hdmi_ignore_cec" default="true">false</setting>
+    <setting id="hdmi_ignore_cec_init">true</setting>
+    <setting id="hdmi_ignore_edid" default="true">false</setting>
+    <setting id="hdmi_mode" default="true">0</setting>
+    <setting id="hdmi_pixel_encoding" default="true">0</setting>
+    <setting id="hdmi_safe" default="true">false</setting>
+    <setting id="label0" default="true"></setting>
+    <setting id="label1" default="true"></setting>
+    <setting id="label2" default="true"></setting>
+    <setting id="label3" default="true"></setting>
+    <setting id="label4" default="true"></setting>
+    <setting id="label5" default="true"></setting>
+    <setting id="label6" default="true"></setting>
+    <setting id="label7" default="true"></setting>
+    <setting id="lirc-rpi-overlay" default="true">false</setting>
+    <setting id="mem_free" default="true"></setting>
+    <setting id="non_addon_settings" default="true"></setting>
+    <setting id="sdtv_aspect">1</setting>
+    <setting id="sdtv_mode" default="true">0</setting>
+    <setting id="serial">000000005cbb4327</setting>
+    <setting id="soundcard_dac" default="true">0</setting>
+    <setting id="spi-bcm2835-overlay" default="true">false</setting>
+    <setting id="start_x" default="true">1</setting>
+    <setting id="w1gpio" default="true">0</setting>
+</settings>

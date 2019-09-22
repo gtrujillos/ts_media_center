@@ -1,0 +1,1 @@
+[".lulo.", ["lulo buaya cinta", "lulo cafe", "lulo cafe pure surprise", "lulo elekton nonstop music", "lulo song", "lulo kendari", "lulo nonstop", "lulo moja srebrom okovana", "lulo al2", "lulo terbaru 2019"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

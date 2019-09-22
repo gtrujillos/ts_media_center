@@ -1,0 +1,1 @@
+[".lu", [".luisito comunica", ".lu", ".lua", ".luke combs", ".luha", ".lucky", ".luna", ".lullaby", ".ludo", ".lucifer"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

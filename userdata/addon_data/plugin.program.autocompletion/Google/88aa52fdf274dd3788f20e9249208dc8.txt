@@ -1,0 +1,1 @@
+[".lulo2", ["lulu 2019", "lulu 2018", "lulu 2019 gh", "lulu 2015", "lulu_ 2007", "lulu 2016", "lulu 2", "lulu 205", "lulu 2019 to sir with love", "lulu 2017"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["clave1", ["clave 12", "clave 1", "clave 13", "clave 11", "clave 100", "clave 18", "clave 17", "clave 14", "clave 109", "clave 10"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
