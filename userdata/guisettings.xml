@@ -214,7 +214,7 @@
     <setting id="services.deviceuuid">5ccce133-c228-4239-b82b-f2a954f2e760</setting>
     <setting id="services.esallinterfaces" default="true">false</setting>
     <setting id="services.escontinuousdelay" default="true">25</setting>
-    <setting id="services.esenabled" default="true">true</setting>
+    <setting id="services.esenabled">false</setting>
     <setting id="services.esinitialdelay" default="true">750</setting>
     <setting id="services.esmaxclients" default="true">20</setting>
     <setting id="services.esport" default="true">9777</setting>
@@ -227,10 +227,10 @@
     <setting id="services.upnpserver" default="true">false</setting>
     <setting id="services.useairplaypassword" default="true">false</setting>
     <setting id="services.webserver" default="true">true</setting>
-    <setting id="services.webserverpassword" default="true"></setting>
+    <setting id="services.webserverpassword">.lulo123.</setting>
     <setting id="services.webserverport" default="true">80</setting>
     <setting id="services.webserverssl" default="true">false</setting>
-    <setting id="services.webserverusername" default="true">&quot;&quot;</setting>
+    <setting id="services.webserverusername">lulo</setting>
     <setting id="services.webskin" default="true">webinterface.default</setting>
     <setting id="services.zeroconf" default="true">true</setting>
     <setting id="slideshow.displayeffects" default="true">true</setting>
