@@ -1,35 +1,38 @@
 <settings>
-    <setting id="skinhelper.enableextendedart" type="bool">false</setting>
-    <setting id="skinhelper.forcedviews.enabled" type="bool">false</setting>
+    <setting id="musicvis.fanartfallback" type="bool">false</setting>
+    <setting id="disable.weatherheader" type="bool">false</setting>
+    <setting id="skinhelper.enableanimatedposters" type="bool">false</setting>
+    <setting id="header.mainheadercount" type="bool">false</setting>
     <setting id="skinhelper.disablescreensaveronfullscreenmusic" type="bool">false</setting>
     <setting id="home.tilecolor.nofocus" type="bool">false</setting>
     <setting id="music.autovis" type="bool">false</setting>
     <setting id="osdblackscreen" type="bool">false</setting>
+    <setting id="skinhelper.enableextendedart" type="bool">false</setting>
     <setting id="furniture.flags.extradetail" type="bool">false</setting>
+    <setting id="skinhelper.forcedviews.enabled" type="bool">false</setting>
     <setting id="home.tilecolor" type="bool">false</setting>
     <setting id="global.showdialogshadows" type="bool">false</setting>
     <setting id="furniture.hidesortinfo" type="bool">false</setting>
     <setting id="global.widescreen" type="bool">false</setting>
-    <setting id="furniture.showflags" type="bool">false</setting>
-    <setting id="global.hideobjectshadows" type="bool">false</setting>
     <setting id="background.hidefanart" type="bool">false</setting>
     <setting id="header.colormatch" type="bool">false</setting>
     <setting id="home.transparent" type="bool">false</setting>
     <setting id="header.tilefollowsnode" type="bool">false</setting>
     <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
     <setting id="videoosd.hidenotification" type="bool">false</setting>
+    <setting id="global.hideobjectshadows" type="bool">false</setting>
     <setting id="debuginfo" type="bool">false</setting>
     <setting id="skinhelper.enablepvrthumbs" type="bool">true</setting>
     <setting id="home.hidewidgetbox" type="bool">false</setting>
     <setting id="home.showdiscart" type="bool">false</setting>
     <setting id="background.showvideo" type="bool">false</setting>
     <setting id="skinhelper.enableextrafanart" type="bool">false</setting>
+    <setting id="furniture.showflags" type="bool">false</setting>
     <setting id="global.fanart" type="bool">false</setting>
     <setting id="background.showvisualisation" type="bool">false</setting>
     <setting id="skinhelper.enablemusicart" type="bool">true</setting>
     <setting id="disable.clockheader" type="bool">false</setting>
     <setting id="osdvisualisation.showfanart" type="bool">false</setting>
-    <setting id="musicvis.fanartfallback" type="bool">false</setting>
     <setting id="artistslideshow.enabled" type="bool">false</setting>
     <setting id="artistslideshow.animate" type="bool">false</setting>
     <setting id="enablecolorfilter" type="bool">false</setting>
@@ -39,9 +42,6 @@
     <setting id="global.eminenceonestyle" type="bool">false</setting>
     <setting id="osdnoinfo" type="bool">false</setting>
     <setting id="disable.mainheader" type="bool">false</setting>
-    <setting id="disable.weatherheader" type="bool">false</setting>
-    <setting id="skinhelper.enableanimatedposters" type="bool">false</setting>
-    <setting id="header.mainheadercount" type="bool">false</setting>
     <setting id="global.background" type="string"></setting>
     <setting id="home.mainheadertext" type="string"></setting>
     <setting id="home.subheadertext" type="string"></setting>
