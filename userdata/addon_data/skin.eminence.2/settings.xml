@@ -1,10 +1,5 @@
 <settings>
     <setting id="musicvis.fanartfallback" type="bool">false</setting>
-    <setting id="disable.weatherheader" type="bool">false</setting>
-    <setting id="skinhelper.enableanimatedposters" type="bool">false</setting>
-    <setting id="header.mainheadercount" type="bool">false</setting>
-    <setting id="skinhelper.disablescreensaveronfullscreenmusic" type="bool">false</setting>
-    <setting id="home.tilecolor.nofocus" type="bool">false</setting>
     <setting id="music.autovis" type="bool">false</setting>
     <setting id="osdblackscreen" type="bool">false</setting>
     <setting id="skinhelper.enableextendedart" type="bool">false</setting>
@@ -42,6 +37,11 @@
     <setting id="global.eminenceonestyle" type="bool">false</setting>
     <setting id="osdnoinfo" type="bool">false</setting>
     <setting id="disable.mainheader" type="bool">false</setting>
+    <setting id="disable.weatherheader" type="bool">false</setting>
+    <setting id="skinhelper.enableanimatedposters" type="bool">false</setting>
+    <setting id="header.mainheadercount" type="bool">false</setting>
+    <setting id="skinhelper.disablescreensaveronfullscreenmusic" type="bool">false</setting>
+    <setting id="home.tilecolor.nofocus" type="bool">false</setting>
     <setting id="global.background" type="string"></setting>
     <setting id="home.mainheadertext" type="string"></setting>
     <setting id="home.subheadertext" type="string"></setting>
