@@ -1,0 +1,1 @@
+[".Lu", [".lu", ".lua", ".lungi dance", ".lucky", ".ludo", ".lua script", ".lucifer", ".lullaby", ".luna", ".lucy"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

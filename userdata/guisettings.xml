@@ -280,7 +280,7 @@
     <setting id="videoplayer.preferdefaultflag" default="true">true</setting>
     <setting id="videoplayer.quitstereomodeonstop" default="true">true</setting>
     <setting id="videoplayer.rendermethod" default="true">0</setting>
-    <setting id="videoplayer.seekdelay" default="true">750</setting>
+    <setting id="videoplayer.seekdelay">0</setting>
     <setting id="videoplayer.seeksteps" default="true">-600,-300,-180,-60,-30,-10,10,30,60,180,300,600</setting>
     <setting id="videoplayer.stereoscopicplaybackmode" default="true">0</setting>
     <setting id="videoplayer.stretch43" default="true">0</setting>
