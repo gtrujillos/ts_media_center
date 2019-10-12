@@ -28,11 +28,20 @@
         </control>
 
         <control type="group" id="4">
+
             <left>0</left>
             <top>0</top>
             <width>100%</width>
-            <height>100</height>
-            <texture colordiffuse="LineLabel">common/black.png</texture>
+            <height>150</height>
+
+            <control type="image" id="1">
+                <posx>0</posx>
+                <posy>0</posy>
+                <width>1950</width>
+                <height>150</height>
+                <texture colordiffuse="LineLabel">common/black.png</texture>
+            </control>
+
             <control type="label" id="3">
                 <description>Current time</description>
                 <left>0</left>
