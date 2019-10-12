@@ -94,7 +94,7 @@
     <setting id="locale.timezone" default="true">America/Bogota</setting>
     <setting id="locale.timezonecountry" default="true">Colombia</setting>
     <setting id="locale.use24hourclock" default="true">regional</setting>
-    <setting id="lookandfeel.enablerssfeeds" default="true">false</setting>
+    <setting id="lookandfeel.enablerssfeeds">true</setting>
     <setting id="lookandfeel.font" default="true">Default</setting>
     <setting id="lookandfeel.rssedit" default="true"></setting>
     <setting id="lookandfeel.skin">skin.eminence.2</setting>
@@ -323,7 +323,7 @@
     <setting id="videoscreen.stereoscopicmode" default="true">0</setting>
     <setting id="videoscreen.textures32" default="true">true</setting>
     <setting id="videoscreen.whitelist" default="true"></setting>
-    <setting id="weather.addon" default="true"></setting>
+    <setting id="weather.addon">weather.yahoo</setting>
     <setting id="weather.currentlocation" default="true">1</setting>
     <setting id="window.height" default="true">480</setting>
     <setting id="window.width" default="true">720</setting>
