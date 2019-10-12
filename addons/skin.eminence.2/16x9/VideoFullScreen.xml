@@ -27,17 +27,23 @@
             <animation effect="fade" start="0" end="100" time="400">WindowOpen</animation>
         </control>
 
-        <control type="label">
+        <control type="label" id="3">
+            <description>Current time</description>
             <left>0</left>
             <top>0</top>
             <width>100%</width>
             <height>50</height>
-            <aligny>top</aligny>
-            <font>Font-Sublabel</font>
-            <textcolor>$VAR[Furniture_TopBar_SubLabel_Color]</textcolor>
             <align>right</align>
-            <label>$INFO[System.Time(xx)]</label>
-            <visible>!String.IsEmpty(System.Time(xx))</visible>
+            <aligny>top</aligny>
+            <font>Font-Header</font>
+            <textcolor>$VAR[Furniture_TopBar_MainLabel_Color]</textcolor>
+            <shadowcolor>black</shadowcolor>
+            <label>$INFO[System.Time(hh:mm)]</label>
+            <animation type="WindowOpen">
+                <effect type="fade" start="0" end="100" time="1000" />
+                <effect type="slide" start="0,13" end="0,0" time="1000" />
+            </animation>
+            <animation effect="fade" start="100" end="0" time="100">WindowClose</animation>
         </control>
 
     </controls>
