@@ -63,7 +63,7 @@
 
             <control type="label" id="33">
                 <description>Current time</description>
-                <left>100</left>
+                <left>-300</left>
                 <top>0</top>
                 <width>100%</width>
                 <height>50</height>
@@ -72,7 +72,7 @@
                 <font>Font-Header</font>
                 <textcolor>$VAR[Furniture_TopBar_MainLabel_Color]</textcolor>
                 <shadowcolor>black</shadowcolor>
-                <label>$INFO[System.Time(hh:mm)]</label>
+                <label>$INFO[Weather.Temperature]</label>
                 <animation type="WindowOpen">
                     <effect type="fade" start="0" end="100" time="1000" />
                     <effect type="slide" start="0,13" end="0,0" time="1000" />
