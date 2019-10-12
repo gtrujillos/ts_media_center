@@ -57,7 +57,7 @@
                 <label>$INFO[Weather.Temperature]</label>
                 <visible>!Skin.HasSetting(disable.weatherheader)</visible>
             </control>
-            <control type="label">
+            <control type="label"  id="32">
                 <posx>270</posx>
                 <posy>25</posy>
                 <width>300</width>
@@ -69,7 +69,7 @@
                 <textcolor>$VAR[Furniture_TopBar_MainLabel_Color]</textcolor>
                 <animation effect="slide" start="0" end="-58" condition="!String.IsEmpty(System.Time(xx))">Conditional</animation>
             </control>
-            <control type="label">
+            <control type="label"  id="33">
                 <posx>270</posx>
                 <posy>71</posy>
                 <width>100</width>
@@ -81,7 +81,7 @@
                 <label>$INFO[System.Time(xx)]</label>
                 <visible>!String.IsEmpty(System.Time(xx))</visible>
             </control>
-            <control type="label">
+            <control type="label"  id="34">
                 <posx>270</posx>
                 <posy>115</posy>
                 <width>500</width>
