@@ -7,7 +7,7 @@
             <posx>0</posx>
             <posy>110r</posy>
             <width>1950</width>
-            <height>150</height>
+            <height>110</height>
             <texture colordiffuse="LineLabel">common/black.png</texture>
         </control>
 
@@ -15,7 +15,7 @@
             <description>RSS feed</description>
             <posx>0</posx>
             <posy>95r</posy>
-            <height>105</height>
+            <height>100</height>
             <width>1950</width>
             <font>Font-MusicVis-Title</font>
             <urlset>2</urlset>
