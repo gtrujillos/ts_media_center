@@ -29,10 +29,22 @@
 
         <control type="group" id="3">
 
-            <left>0</left>
+            <posx>400r</posx>
+            <!-- <left>0</left>
             <top>0</top>
             <width>100%</width>
-            <height>150</height>
+            <height>150</height> -->
+
+            <control type="image" id="30">
+                <posx>284</posx>
+                <posy>28</posy>
+                <width>100</width>
+                <height>100</height>
+                <fadetime>350</fadetime>
+                <aspectratio aligny="center" align="center">keep</aspectratio>
+                <texture colordiffuse="$VAR[Furniture_TopBar_MainLabel_Color]">$INFO[Weather.FanartCode,resource://resource.images.weathericons.white/,.png]</texture>
+                <visible>!Skin.HasSetting(disable.weatherheader)</visible>
+            </control>
 
             <control type="image" id="31">
                 <posx>0</posx>
