@@ -57,6 +57,41 @@
                 <label>$INFO[Weather.Temperature]</label>
                 <visible>!Skin.HasSetting(disable.weatherheader)</visible>
             </control>
+            <control type="label">
+                <posx>270</posx>
+                <posy>25</posy>
+                <width>300</width>
+                <height>100</height>
+                <font>Font-Header</font>
+                <align>right</align>
+                <aligny>top</aligny>
+                <label>$INFO[System.Time(hh:mm)]</label>
+                <textcolor>$VAR[Furniture_TopBar_MainLabel_Color]</textcolor>
+                <animation effect="slide" start="0" end="-58" condition="!String.IsEmpty(System.Time(xx))">Conditional</animation>
+            </control>
+            <control type="label">
+                <posx>270</posx>
+                <posy>71</posy>
+                <width>100</width>
+                <height>100</height>
+                <aligny>top</aligny>
+                <font>Font-Sublabel</font>
+                <textcolor>$VAR[Furniture_TopBar_SubLabel_Color]</textcolor>
+                <align>right</align>
+                <label>$INFO[System.Time(xx)]</label>
+                <visible>!String.IsEmpty(System.Time(xx))</visible>
+            </control>
+            <control type="label">
+                <posx>270</posx>
+                <posy>115</posy>
+                <width>500</width>
+                <height>100</height>
+                <aligny>top</aligny>
+                <font>Font-Sublabel</font>
+                <textcolor>$VAR[Furniture_TopBar_SubLabel_Color]</textcolor>
+                <align>right</align>
+                <label>$INFO[System.Date(DDD)]$COMMA $INFO[System.Date(dd MMM yyyy)]</label>
+            </control>
 
             <!-- <control type="image" id="31">
                 <posx>0</posx>
