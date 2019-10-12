@@ -27,23 +27,29 @@
             <animation effect="fade" start="0" end="100" time="400">WindowOpen</animation>
         </control>
 
-        <control type="label" id="3">
-            <description>Current time</description>
+        <control type="group" id="4">
             <left>0</left>
             <top>0</top>
             <width>100%</width>
             <height>50</height>
-            <align>right</align>
-            <aligny>top</aligny>
-            <font>Font-Header</font>
-            <textcolor>$VAR[Furniture_TopBar_MainLabel_Color]</textcolor>
-            <shadowcolor>black</shadowcolor>
-            <label>$INFO[System.Time(hh:mm)]</label>
-            <animation type="WindowOpen">
-                <effect type="fade" start="0" end="100" time="1000" />
-                <effect type="slide" start="0,13" end="0,0" time="1000" />
-            </animation>
-            <animation effect="fade" start="100" end="0" time="100">WindowClose</animation>
+            <control type="label" id="3">
+                <description>Current time</description>
+                <left>0</left>
+                <top>0</top>
+                <width>100%</width>
+                <height>50</height>
+                <align>right</align>
+                <aligny>top</aligny>
+                <font>Font-Header</font>
+                <textcolor>$VAR[Furniture_TopBar_MainLabel_Color]</textcolor>
+                <shadowcolor>black</shadowcolor>
+                <label>$INFO[System.Time(hh:mm)]</label>
+                <animation type="WindowOpen">
+                    <effect type="fade" start="0" end="100" time="1000" />
+                    <effect type="slide" start="0,13" end="0,0" time="1000" />
+                </animation>
+                <animation effect="fade" start="100" end="0" time="100">WindowClose</animation>
+            </control>
         </control>
 
     </controls>
