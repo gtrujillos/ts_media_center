@@ -1,1 +1,1 @@
-[".l", [".l", ".ll", ".l km", ".luisito comunica", ".lml", ".ln", ".lf", ".lost on you", ".la", ".lmm"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
+[".l", [".l", ".llll", ".ll", ".lab", ".ln", ".l k", ".la", ".less", ".loc pandas", ".lost on you"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["https://news.google.com/r", ["https //news.google.com/re", "https //news.google.com/red", "https //news.google.com/rock"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

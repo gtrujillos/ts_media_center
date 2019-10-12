@@ -1,1 +1,1 @@
-[".lu", [".luisito comunica", ".lu", ".lua", ".luke combs", ".luha", ".lucky", ".luna", ".lullaby", ".ludo", ".lucifer"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
+[".lu", [".lu", ".lua", ".lungi dance", ".lucky", ".ludo", ".lua script", ".lucifer", ".lullaby", ".luna", ".lucy"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

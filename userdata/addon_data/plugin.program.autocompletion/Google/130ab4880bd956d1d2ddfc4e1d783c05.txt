@@ -1,1 +1,1 @@
-[".", [".net", ".net core", ".g", ".csv", ".io", ".40", ".l", "._. xd", ".musica", ".com"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
+[".", [".net", "._. xd", ".net core", ".csv", ".g", ".io", ".l", ".net core 3", ".40", ".net framework"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

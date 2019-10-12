@@ -1,0 +1,1 @@
+["https://new", ["http://new-song.com", "new song 2019", "http://hindisong.com", "http://nowmovie.net", "https //news.google.co.in/ google news", "http://punjabisong.in", "new movie 2019", "https://newsongs.org", "new natok", "new punjabi song 2019"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["https://news.google.co", ["https //news.google.co.in/ google news", "https //news.google.co.in/ google news channel", "https://news.google.com/"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]
