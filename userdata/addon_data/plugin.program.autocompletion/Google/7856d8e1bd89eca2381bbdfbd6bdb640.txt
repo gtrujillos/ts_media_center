@@ -1,0 +1,1 @@
+["med", ["medellin", "meditacion", "meditation", "medication", "media luna", "meditacion guiada", "medellin vs cucuta", "meditaci\u00f3n", "medellin vs nacional", "medicine"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

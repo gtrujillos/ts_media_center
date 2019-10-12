@@ -1,13 +1,7 @@
 <settings>
-<<<<<<< HEAD
-    <setting id="indicator.resume" type="bool">false</setting>
     <setting id="store_widget5_genres" type="bool">false</setting>
     <setting id="skinhelper.enablepvrthumbs" type="bool">true</setting>
-    <setting id="osd.showclearart" type="bool">false</setting>
-    <setting id="store_widget4_genres" type="bool">false</setting>
-    <setting id="background.hidefanart" type="bool">false</setting>
-    <setting id="skinhelper.enablemusicart" type="bool">true</setting>
-    <setting id="showosdscrollingtext" type="bool">false</setting>
+    <setting id="indicator.resume" type="bool">false</setting>
     <setting id="skinhelper.view.disabled.577" type="bool">false</setting>
     <setting id="skinhelper.view.disabled.525" type="bool">false</setting>
     <setting id="music.autovis" type="bool">false</setting>
@@ -15,14 +9,6 @@
     <setting id="skinhelper.view.disabled.51" type="bool">false</setting>
     <setting id="home.showdiscart" type="bool">false</setting>
     <setting id="home.hidewidgetbox" type="bool">false</setting>
-=======
-    <setting id="musicvis.fanartfallback" type="bool">false</setting>
-    <setting id="music.autovis" type="bool">false</setting>
-    <setting id="osdblackscreen" type="bool">false</setting>
-    <setting id="skinhelper.enableextendedart" type="bool">false</setting>
-    <setting id="furniture.flags.extradetail" type="bool">false</setting>
-    <setting id="skinhelper.forcedviews.enabled" type="bool">false</setting>
->>>>>>> 25efbad1835e4699d4e47e932586cdd489705550
     <setting id="home.tilecolor" type="bool">false</setting>
     <setting id="global.eminenceonestyle" type="bool">false</setting>
     <setting id="videoosd.showinfo" type="bool">false</setting>
@@ -40,22 +26,15 @@
     <setting id="osdblackscreen" type="bool">false</setting>
     <setting id="furniture.overlayinfo" type="bool">false</setting>
     <setting id="global.showdialogshadows" type="bool">false</setting>
-<<<<<<< HEAD
     <setting id="skinhelper.view.disabled.52" type="bool">false</setting>
     <setting id="skinhelper.enableextrafanart" type="bool">false</setting>
     <setting id="disable.weatherheader" type="bool">false</setting>
     <setting id="widgets.persistent" type="bool">false</setting>
     <setting id="global.hideobjectshadows" type="bool">false</setting>
-=======
-    <setting id="furniture.hidesortinfo" type="bool">false</setting>
-    <setting id="global.widescreen" type="bool">false</setting>
-    <setting id="background.hidefanart" type="bool">false</setting>
->>>>>>> 25efbad1835e4699d4e47e932586cdd489705550
     <setting id="header.colormatch" type="bool">false</setting>
     <setting id="global.widescreen" type="bool">false</setting>
     <setting id="store_widget2_landscape" type="bool">false</setting>
     <setting id="videoosd.hidenotification" type="bool">false</setting>
-<<<<<<< HEAD
     <setting id="widgets.donthidemenu" type="bool">false</setting>
     <setting id="skinhelper.view.disabled.57" type="bool">false</setting>
     <setting id="osdvisualisation.showfanart" type="bool">false</setting>
@@ -91,21 +70,6 @@
     <setting id="furniture.hidehubplot" type="bool">false</setting>
     <setting id="skinhelper.view.disabled.59" type="bool">false</setting>
     <setting id="skinhelper.view.disabled.535" type="bool">false</setting>
-=======
-    <setting id="global.hideobjectshadows" type="bool">false</setting>
-    <setting id="debuginfo" type="bool">false</setting>
-    <setting id="skinhelper.enablepvrthumbs" type="bool">true</setting>
-    <setting id="home.hidewidgetbox" type="bool">false</setting>
-    <setting id="home.showdiscart" type="bool">false</setting>
-    <setting id="background.showvideo" type="bool">false</setting>
-    <setting id="skinhelper.enableextrafanart" type="bool">false</setting>
-    <setting id="furniture.showflags" type="bool">false</setting>
-    <setting id="global.fanart" type="bool">false</setting>
-    <setting id="background.showvisualisation" type="bool">false</setting>
-    <setting id="skinhelper.enablemusicart" type="bool">true</setting>
-    <setting id="disable.clockheader" type="bool">false</setting>
-    <setting id="osdvisualisation.showfanart" type="bool">false</setting>
->>>>>>> 25efbad1835e4699d4e47e932586cdd489705550
     <setting id="artistslideshow.enabled" type="bool">false</setting>
     <setting id="disable.clockheader" type="bool">false</setting>
     <setting id="artistslideshow.animate" type="bool">false</setting>
@@ -126,8 +90,12 @@
     <setting id="indicator.watched" type="bool">false</setting>
     <setting id="store_widget2_genres" type="bool">false</setting>
     <setting id="background.animate" type="bool">false</setting>
-<<<<<<< HEAD
     <setting id="store_widget6_landscape" type="bool">true</setting>
+    <setting id="osd.showclearart" type="bool">false</setting>
+    <setting id="store_widget4_genres" type="bool">false</setting>
+    <setting id="background.hidefanart" type="bool">false</setting>
+    <setting id="skinhelper.enablemusicart" type="bool">true</setting>
+    <setting id="showosdscrollingtext" type="bool">false</setting>
     <setting id="skin.forcedview.musicvideos" type="string"></setting>
     <setting id="skin.forcedview.unknown" type="string"></setting>
     <setting id="home.fallbackwidget" type="string"></setting>
@@ -141,19 +109,6 @@
     <setting id="Store_Widget2_Content" type="string">special://skin/extras/playlists/RecentMovies.xsp</setting>
     <setting id="Store_Widget4_Content" type="string">special://skin/extras/playlists/RandomMovies.xsp</setting>
     <setting id="skin.forcedview.studios" type="string"></setting>
-=======
-    <setting id="global.eminenceonestyle" type="bool">false</setting>
-    <setting id="osdnoinfo" type="bool">false</setting>
-    <setting id="disable.mainheader" type="bool">false</setting>
-    <setting id="disable.weatherheader" type="bool">false</setting>
-    <setting id="skinhelper.enableanimatedposters" type="bool">false</setting>
-    <setting id="header.mainheadercount" type="bool">false</setting>
-    <setting id="skinhelper.disablescreensaveronfullscreenmusic" type="bool">false</setting>
-    <setting id="home.tilecolor.nofocus" type="bool">false</setting>
-    <setting id="global.background" type="string"></setting>
-    <setting id="home.mainheadertext" type="string"></setting>
-    <setting id="home.subheadertext" type="string"></setting>
->>>>>>> 25efbad1835e4699d4e47e932586cdd489705550
     <setting id="weather.icons.path" type="string"></setting>
     <setting id="SkinHelper.ShowInfoAtPlaybackStart" type="string"></setting>
     <setting id="startupplaylist" type="string"></setting>

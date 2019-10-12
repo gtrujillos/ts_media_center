@@ -1,0 +1,13 @@
+<settings version="2">
+    <setting id="Debug" default="true">false</setting>
+    <setting id="Location1">Medellin, Antioquia, CO</setting>
+    <setting id="Location1id">368150</setting>
+    <setting id="Location2" default="true"></setting>
+    <setting id="Location2id" default="true"></setting>
+    <setting id="Location3" default="true"></setting>
+    <setting id="Location3id" default="true"></setting>
+    <setting id="Location4" default="true"></setting>
+    <setting id="Location4id" default="true"></setting>
+    <setting id="Location5" default="true"></setting>
+    <setting id="Location5id" default="true"></setting>
+</settings>

@@ -1,0 +1,1 @@
+["medellin", ["medellin", "medellin vs cucuta", "medellin vs nacional", "medellin vs america", "medellin colombia", "medellin llin", "medellin cucuta", "medellin millonarios", "medellin vs junior", "medellin immersion"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
