@@ -31,7 +31,8 @@
             <left>0</left>
             <top>0</top>
             <width>100%</width>
-            <height>50</height>
+            <height>100</height>
+            <texture colordiffuse="LineLabel">common/black.png</texture>
             <control type="label" id="3">
                 <description>Current time</description>
                 <left>0</left>
@@ -50,6 +51,7 @@
                 </animation>
                 <animation effect="fade" start="100" end="0" time="100">WindowClose</animation>
             </control>
+
         </control>
 
     </controls>
