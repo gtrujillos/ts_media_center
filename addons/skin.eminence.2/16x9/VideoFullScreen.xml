@@ -5,7 +5,7 @@
 
         <control type="image" id="1">
             <posx>0</posx>
-            <posy>110r</posy>
+            <posy>90r</posy>
             <width>1950</width>
             <height>110</height>
             <texture colordiffuse="LineLabel">common/black.png</texture>
