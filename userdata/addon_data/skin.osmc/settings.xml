@@ -1,77 +1,63 @@
 <settings>
-    <setting id="enableartistfanart" type="bool">false</setting>
-    <setting id="videoinfoendmusicvideo" type="bool">false</setting>
-    <setting id="videoinfostart" type="bool">false</setting>
+    <setting id="SkinHelper.EnablePVRThumbs" type="bool">true</setting>
+    <setting id="backgroundvideo" type="bool">false</setting>
+    <setting id="videowatchedstatus" type="bool">false</setting>
+    <setting id="weathericons.multi" type="bool">false</setting>
+    <setting id="hassettingslink" type="bool">false</setting>
+    <setting id="backgroundvisualisation" type="bool">false</setting>
+    <setting id="weatherfanart.multi" type="bool">false</setting>
+    <setting id="musiclistenedtostatus" type="bool">false</setting>
+    <setting id="debuggrid" type="bool">false</setting>
     <setting id="scrollbars" type="bool">false</setting>
     <setting id="alwaysshowsettingslink" type="bool">false</setting>
-    <setting id="SkinHelper.EnablePVRThumbs" type="bool">true</setting>
-    <setting id="videoinfostartfiles" type="bool">false</setting>
-    <setting id="videoinfolivetvswitch" type="bool">false</setting>
-    <setting id="submenucontrols" type="bool">false</setting>
-    <setting id="debuggrid" type="bool">false</setting>
-    <setting id="backgroundvideo" type="bool">false</setting>
-    <setting id="videoinfostartlivetv" type="bool">false</setting>
-    <setting id="hassettingslink" type="bool">false</setting>
-    <setting id="userrating" type="bool">false</setting>
-    <setting id="videoinfoendfiles" type="bool">false</setting>
-    <setting id="videoinfoendtvshow" type="bool">false</setting>
-    <setting id="automusicvisplayback" type="bool">false</setting>
-    <setting id="videoinfostarttvshow" type="bool">false</setting>
     <setting id="debuginfo" type="bool">false</setting>
+    <setting id="automusicvisplayback" type="bool">false</setting>
     <setting id="hidefanart" type="bool">false</setting>
-    <setting id="kioskmode" type="bool">false</setting>
-    <setting id="texthighlight" type="bool">false</setting>
-    <setting id="weathericons.multi" type="bool">false</setting>
-    <setting id="weatherfanart.multi" type="bool">false</setting>
-    <setting id="videoinfoend" type="bool">false</setting>
-    <setting id="videoinfostartmusicvideo" type="bool">false</setting>
-    <setting id="backgroundvisualisation" type="bool">false</setting>
-    <setting id="videoinfostartmovies" type="bool">false</setting>
-    <setting id="videoinfoendmovie" type="bool">false</setting>
-    <setting id="musiclistenedtostatus" type="bool">false</setting>
-    <setting id="videowatchedstatus" type="bool">false</setting>
     <setting id="dateaboveclock" type="bool">false</setting>
-    <setting id="color.disabled" type="string">None</setting>
-    <setting id="color.homenf" type="string">None</setting>
-    <setting id="hideosd" type="string">Always</setting>
-    <setting id="color.invalid" type="string">None</setting>
-    <setting id="color.dialog1" type="string">None</setting>
-    <setting id="weatherFanart.ext" type="string"></setting>
-    <setting id="defaultoverlayopacity" type="string">High</setting>
-    <setting id="weathericons.path" type="string"></setting>
-    <setting id="videodurationformat" type="string">Minutes</setting>
-    <setting id="plotfont" type="string">S</setting>
-    <setting id="custombackground" type="string"></setting>
+    <setting id="texthighlight" type="bool">false</setting>
+    <setting id="enableartistfanart" type="bool">false</setting>
+    <setting id="submenucontrols" type="bool">false</setting>
     <setting id="welcomedialogshown" type="string"></setting>
-    <setting id="nfdimopac" type="string">100</setting>
-    <setting id="defaultcolorset" type="string">OSMC Blue</setting>
-    <setting id="color.darken" type="string">None</setting>
-    <setting id="color.text2" type="string">None</setting>
-    <setting id="videoinfoendduration" type="string">10s</setting>
-    <setting id="weathericons.ext" type="string"></setting>
-    <setting id="color.overlaynf" type="string">None</setting>
-    <setting id="backgrounddefaultimage" type="string">yes</setting>
-    <setting id="color.background" type="string">None</setting>
-    <setting id="menustyle" type="string"></setting>
-    <setting id="color.text4" type="string">None</setting>
-    <setting id="defaultbackgroundopacity" type="string">High</setting>
-    <setting id="individualbackgroundfolderduration" type="string">30s</setting>
-    <setting id="backgroundsingleimage" type="string">yes</setting>
-    <setting id="videoinfostartduration" type="string">10s</setting>
-    <setting id="color.overlay" type="string">None</setting>
-    <setting id="color.selected" type="string">None</setting>
-    <setting id="color.text1" type="string">None</setting>
-    <setting id="custombackgroundfolder" type="string"></setting>
-    <setting id="defaultcolors" type="string">yes</setting>
-    <setting id="backgroundimage" type="string">1</setting>
-    <setting id="automusicvisplaybackduration" type="string">60s</setting>
-    <setting id="color.overlayfo" type="string">None</setting>
-    <setting id="color.dialog2" type="string">None</setting>
-    <setting id="color.fanartdiffuse" type="string">None</setting>
-    <setting id="OSMCBackgroundOverlay" type="string">1</setting>
     <setting id="color.text3" type="string">None</setting>
-    <setting id="custombackgroundfolderduration" type="string">30s</setting>
+    <setting id="color.invalid" type="string">None</setting>
+    <setting id="backgrounddefaultimage" type="string">yes</setting>
+    <setting id="backgroundimage" type="string">1</setting>
+    <setting id="color.overlay" type="string">None</setting>
+    <setting id="nfdimopac" type="string">100</setting>
+    <setting id="color.text2" type="string">None</setting>
+    <setting id="defaultcolorset" type="string">OSMC Blue</setting>
+    <setting id="defaultbackgroundopacity" type="string">High</setting>
+    <setting id="backgroundsingleimage" type="string">yes</setting>
+    <setting id="color.dialog1" type="string">None</setting>
     <setting id="color.dialogoverlaynf" type="string">None</setting>
+    <setting id="menustyle" type="string"></setting>
+    <setting id="automusicvisplaybackduration" type="string">60s</setting>
+    <setting id="weathericons.path" type="string"></setting>
     <setting id="weatherFanart.path" type="string"></setting>
+    <setting id="individualbackgroundfolderduration" type="string">30s</setting>
+    <setting id="color.selected" type="string">None</setting>
+    <setting id="color.dialog2" type="string">None</setting>
+    <setting id="color.overlaynf" type="string">None</setting>
+    <setting id="hideosd" type="string">Always</setting>
+    <setting id="custombackground" type="string"></setting>
+    <setting id="weatherFanart.ext" type="string"></setting>
+    <setting id="custombackgroundfolderduration" type="string">30s</setting>
+    <setting id="OSMCBackgroundOverlay" type="string">1</setting>
+    <setting id="color.text1" type="string">None</setting>
+    <setting id="color.disabled" type="string">None</setting>
+    <setting id="defaultcolors" type="string">yes</setting>
+    <setting id="color.background" type="string">None</setting>
+    <setting id="custombackgroundfolder" type="string"></setting>
+    <setting id="plotfont" type="string">S</setting>
+    <setting id="color.darken" type="string">None</setting>
+    <setting id="defaultoverlayopacity" type="string">High</setting>
+    <setting id="color.homenf" type="string">None</setting>
+    <setting id="color.fanartdiffuse" type="string">None</setting>
     <setting id="color.dialogoverlayfo" type="string">None</setting>
+    <setting id="color.text4" type="string">None</setting>
+    <setting id="videoinfostartduration" type="string">10s</setting>
+    <setting id="videoinfoendduration" type="string">10s</setting>
+    <setting id="videodurationformat" type="string">Minutes</setting>
+    <setting id="color.overlayfo" type="string">None</setting>
+    <setting id="weathericons.ext" type="string"></setting>
 </settings>
