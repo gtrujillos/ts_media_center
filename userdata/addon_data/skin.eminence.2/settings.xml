@@ -1,36 +1,4 @@
 <settings>
-    <setting id="indicator.unwatchedepisodes" type="bool">false</setting>
-    <setting id="background.hidefanart" type="bool">false</setting>
-    <setting id="home.showdiscart" type="bool">false</setting>
-    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
-    <setting id="disableshowcase" type="bool">false</setting>
-    <setting id="showosddiffusecolors" type="bool">false</setting>
-    <setting id="osdnoinfo" type="bool">false</setting>
-    <setting id="indicator.watched" type="bool">false</setting>
-    <setting id="store_init" type="bool">true</setting>
-    <setting id="home.disableplayercontrols" type="bool">false</setting>
-    <setting id="indicator.new" type="bool">false</setting>
-    <setting id="Store_Widget3_Genres" type="bool">true</setting>
-    <setting id="artistslideshow.animate" type="bool">false</setting>
-    <setting id="music.autovis" type="bool">false</setting>
-    <setting id="videoosd.showinfo" type="bool">false</setting>
-    <setting id="disable.mainheader" type="bool">false</setting>
-    <setting id="disable.clockheader" type="bool">false</setting>
-    <setting id="disable.weatherheader" type="bool">false</setting>
-    <setting id="enablecolorfilter" type="bool">false</setting>
-    <setting id="widgets.persistent" type="bool">false</setting>
-    <setting id="home.tilecolor.nofocus" type="bool">false</setting>
-    <setting id="background.showvisualisation" type="bool">false</setting>
-    <setting id="global.hideobjectshadows" type="bool">false</setting>
-    <setting id="music.showuserratings" type="bool">false</setting>
-    <setting id="background.animate" type="bool">false</setting>
-    <setting id="home.tilecolor" type="bool">false</setting>
-    <setting id="osdblackscreen" type="bool">false</setting>
-    <setting id="widgets.donthidemenu" type="bool">false</setting>
-    <setting id="artistslideshow.enabled" type="bool">false</setting>
-    <setting id="global.fanart" type="bool">false</setting>
-    <setting id="Store_Widget8_Landscape" type="bool">true</setting>
-    <setting id="global.showdialogshadows" type="bool">false</setting>
     <setting id="videoosd.hidenotification" type="bool">false</setting>
     <setting id="header.tilefollowsnode" type="bool">false</setting>
     <setting id="infoshowpath" type="bool">false</setting>
@@ -94,6 +62,38 @@
     <setting id="Store_Widget7_Genres" type="bool">true</setting>
     <setting id="furniture.hidesortinfo" type="bool">false</setting>
     <setting id="furniture.flags.extradetail" type="bool">false</setting>
+    <setting id="indicator.unwatchedepisodes" type="bool">false</setting>
+    <setting id="background.hidefanart" type="bool">false</setting>
+    <setting id="home.showdiscart" type="bool">false</setting>
+    <setting id="SkinShortcuts-FullMenu" type="bool">true</setting>
+    <setting id="disableshowcase" type="bool">false</setting>
+    <setting id="osdnoinfo" type="bool">false</setting>
+    <setting id="showosddiffusecolors" type="bool">false</setting>
+    <setting id="store_init" type="bool">true</setting>
+    <setting id="home.disableplayercontrols" type="bool">false</setting>
+    <setting id="indicator.new" type="bool">false</setting>
+    <setting id="Store_Widget3_Genres" type="bool">true</setting>
+    <setting id="artistslideshow.animate" type="bool">false</setting>
+    <setting id="indicator.watched" type="bool">false</setting>
+    <setting id="music.autovis" type="bool">false</setting>
+    <setting id="videoosd.showinfo" type="bool">false</setting>
+    <setting id="disable.mainheader" type="bool">false</setting>
+    <setting id="disable.clockheader" type="bool">false</setting>
+    <setting id="disable.weatherheader" type="bool">false</setting>
+    <setting id="enablecolorfilter" type="bool">false</setting>
+    <setting id="widgets.persistent" type="bool">false</setting>
+    <setting id="home.tilecolor.nofocus" type="bool">false</setting>
+    <setting id="background.showvisualisation" type="bool">false</setting>
+    <setting id="global.hideobjectshadows" type="bool">false</setting>
+    <setting id="music.showuserratings" type="bool">false</setting>
+    <setting id="background.animate" type="bool">false</setting>
+    <setting id="home.tilecolor" type="bool">false</setting>
+    <setting id="osdblackscreen" type="bool">false</setting>
+    <setting id="widgets.donthidemenu" type="bool">false</setting>
+    <setting id="artistslideshow.enabled" type="bool">false</setting>
+    <setting id="global.fanart" type="bool">false</setting>
+    <setting id="Store_Widget8_Landscape" type="bool">true</setting>
+    <setting id="global.showdialogshadows" type="bool">false</setting>
     <setting id="Store_Widget3_Target" type="string">videos</setting>
     <setting id="Store_Widget7_Title" type="string">Serie Generos</setting>
     <setting id="Store_Widget1_Title" type="string">Películas añadidas recientemente</setting>
