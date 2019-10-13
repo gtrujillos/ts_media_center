@@ -210,7 +210,7 @@
     <setting id="services.airplaypassword" default="true"></setting>
     <setting id="services.airplayvideosupport" default="true">false</setting>
     <setting id="services.airplayvolumecontrol" default="true">true</setting>
-    <setting id="services.devicename">luloplayer</setting>
+    <setting id="services.devicename">osmc</setting>
     <setting id="services.deviceuuid">5ccce133-c228-4239-b82b-f2a954f2e760</setting>
     <setting id="services.esallinterfaces" default="true">false</setting>
     <setting id="services.escontinuousdelay" default="true">25</setting>
@@ -280,7 +280,7 @@
     <setting id="videoplayer.preferdefaultflag" default="true">true</setting>
     <setting id="videoplayer.quitstereomodeonstop" default="true">true</setting>
     <setting id="videoplayer.rendermethod" default="true">0</setting>
-    <setting id="videoplayer.seekdelay">0</setting>
+    <setting id="videoplayer.seekdelay" default="true">750</setting>
     <setting id="videoplayer.seeksteps" default="true">-600,-300,-180,-60,-30,-10,10,30,60,180,300,600</setting>
     <setting id="videoplayer.stereoscopicplaybackmode" default="true">0</setting>
     <setting id="videoplayer.stretch43" default="true">0</setting>
