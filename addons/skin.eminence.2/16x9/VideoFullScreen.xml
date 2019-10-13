@@ -8,6 +8,7 @@
             <posy>90r</posy>
             <width>1950</width>
             <height>90</height>
+            <visible>system.getbool(lookandfeel.enablerssfeeds)</visible>
             <texture colordiffuse="LineLabel">common/black.png</texture>
         </control>
 
