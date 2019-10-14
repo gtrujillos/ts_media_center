@@ -31,7 +31,8 @@
         <control type="group" id="3">
 
             <posx>400r</posx>
-            <visible>!Skin.HasSetting(disable.clockheader)</visible>
+            <!-- <visible>!Skin.HasSetting(disable.clockheader)</visible> -->
+            <visible>system.getbool(videoplayer.usedisplayasclock)</visible> 
 
             <control type="image" id="30">
                 <posx>284</posx>
